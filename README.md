@@ -15,3 +15,4 @@
 
 ![Matvey's GitHub stats](https://github-readme-stats.vercel.app/api?username=matveypakhomov&show_icons=true&theme=radical&hide=contribs,prs)
 
+![Codewars](https://www.codewars.com/users/MatveyPakhomov/badges/micro)
