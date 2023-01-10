@@ -5,8 +5,8 @@
 #### О себе:
 
 - :computer: Ежедневно использую: ```.js```, ```.html```, ```.css```
-- :muscle: Наращиваю знания в: React, TypeScrypt, Redux
-- 📫 Ты можешь связаться со мной в Telegram: @MatveyPakhomov
+- :muscle: Наращиваю знания в: React Native, TypeScrypt, Redux
+- 📫 Мой telegram: [https://t.me/matveypakhomov](https://t.me/matveypakhomov)
 
 #### Статистика:
 
